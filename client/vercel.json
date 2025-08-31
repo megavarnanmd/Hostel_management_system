@@ -1,6 +1,6 @@
 ﻿{
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://YOUR-BACKEND.onrender.com/api/$1" },
+    { "source": "/api/(.*)", "destination": "psql postgresql://neondb_owner:npg_kXSfvsa7rNi0@ep-mute-dust-ad2g2zik-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
