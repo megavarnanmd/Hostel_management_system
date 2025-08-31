@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://your-hms-server.onrender.com/api/$1" }
+  ]
+}
