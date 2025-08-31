@@ -1,0 +1,16 @@
+﻿node_modules/
+client/dist/
+server/dist/
+*.env
+server/.env
+client/.env
+server/data.db
+server/uploads/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
